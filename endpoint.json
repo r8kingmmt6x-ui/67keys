@@ -2,6 +2,25 @@
   "GC Keys": {
     "pfp": "https://github.com/r8kingmmt6x-ui/67keys/blob/main/profile.png?raw=true",
     "referral": "20",
+    "seliware": {
+      "7": {
+        "price": "3.95",
+        "url": "https://gckeys.cc/product?slug=0efbc78f-045f-4f48-9113-78fcba6ac5ed&ref=keyempire"
+      },
+      "30": {
+        "price": "9.95",
+        "url": "https://gckeys.cc/product?slug=0efbc78f-045f-4f48-9113-78fcba6ac5ed&ref=keyempire"
+      },
+      "payments": [
+        "Bank Tranfer",
+        "Card",
+        "Cash App",
+        "Crypto",
+        "PayPal",
+        "Google Pay",
+        "Apple Pay"
+      ]
+    },
     "volcano": {
       "30": {
         "price": "6.99",
