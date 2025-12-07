@@ -35,6 +35,29 @@
         "Google Pay",
         "Apple Pay"
       ]
+    },
+    "rift": {
+      "7": {
+        "price": "2.49",
+        "url": "https://gckeys.cc/product?slug=f5316dba-ec50-4fee-9964-45855fc25cb7&ref=keyempire"
+      },
+      "14": {
+        "price": "3.99",
+        "url": "https://gckeys.cc/product?slug=f5316dba-ec50-4fee-9964-45855fc25cb7&ref=keyempire"
+      },
+      "30": {
+        "price": "5.99",
+        "url": "https://gckeys.cc/product?slug=f5316dba-ec50-4fee-9964-45855fc25cb7&ref=keyempire"
+      },
+      "payments": [
+        "Card",
+        "PayPal",
+        "Cash App",
+        "Bank Tranfer",
+        "Crypto",
+        "Google Pay",
+        "Apple Pay"
+      ]
     }
   }
 }
