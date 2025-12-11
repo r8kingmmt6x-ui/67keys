@@ -22,8 +22,12 @@
       ]
     },
     "volcano": {
+      "7": {
+        "price": "5.99",
+        "url": "https://gckeys.cc/product?slug=volcano-executor&ref=keyempire"
+      },
       "30": {
-        "price": "6.99",
+        "price": "19.99",
         "url": "https://gckeys.cc/product?slug=volcano-executor&ref=keyempire"
       },
       "payments": [
