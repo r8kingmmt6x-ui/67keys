@@ -62,6 +62,20 @@
         "Google Pay",
         "Apple Pay"
       ]
+    },
+    "potassium": {
+      "lifetime": {
+        "price": "18.99",
+        "url": "https://stealthpay.io/grand/potassium-lifetime?r=keyempire"
+      },
+      "payments": [
+        "Bank Tranfer",
+        "Card",
+        "Cash App",
+        "Crypto",
+        "Robux",
+        "PayPal"
+      ]
     }
   }
 }
